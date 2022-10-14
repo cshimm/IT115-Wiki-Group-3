@@ -18,20 +18,17 @@ https://www.thewindowsclub.com/history-of-windows
 
 <!-- ![image](https://user-images.githubusercontent.com/94158648/194742126-d58adeab-531f-4eda-8d28-2f42683de708.png) -->
 
-* Microsoft’s Windows 95 was released on August 24th, 1995
-https://youtu.be/lAkuJXGldrM
+* [Microsoft’s Windows 95 was released on August 24th, 1995](https://youtu.be/lAkuJXGldrM)
 
 * Jay Leno helped launch the software alongside Microsoft co-founder Bill Gates, with a lot of jokes and the appearance of the entire Windows 95 development team on stage.
-https://youtu.be/_JzfROUDsK0
+[Jay Leno and Bill Gates Windows 95 Launch](https://youtu.be/_JzfROUDsK0)
  
 > It was a huge day for Microsoft with TV commercials blasting the Rolling Stones’ “Start Me Up” with images of the new Start button that we still use today. 
 > * Microsoft even hired Jennifer Aniston and Matthew Perry to create an hour-long cyber sitcom all about Windows 95. The software was so popular that 7 million copies were sold during the first five weeks.
 
-Start me up: Watch CNET's early coverage of Windows 95, back in 1995
-https://youtu.be/Wu_gE8gQLIc
+[Start me up: Watch CNET's early coverage of Windows 95, back in 1995](https://youtu.be/Wu_gE8gQLIc)
 
-Windows 95 launch! (Watch CNET's original story)
-https://youtu.be/13bs7oz4wp8
+[Windows 95 launch! (Watch CNET's original story)](https://youtu.be/13bs7oz4wp8)
 
 ***
 
