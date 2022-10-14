@@ -166,3 +166,101 @@ Microsoft also introduced user profile support in Windows 95 to allow multiple f
 ![image](https://user-images.githubusercontent.com/94158648/194891172-3ff9c0da-0c3d-4dad-9bb8-f49188f2a274.png)
 
 
+# MS-DOS history.
+Year	Event
+
+1983	Bill Gates announced Microsoft Windows on November 10, 1983.
+
+1985	Microsoft Windows 1.0 was introduced on November 20, 1985, and was initially sold for $100.00.
+
+1987	Microsoft Windows 2.0 was released on December 9, 1987, and was initially sold for $100.00.
+
+1987	Microsoft Windows/386 or Windows 386 was introduced on December 9, 1987, and was initially sold for $100.00.
+
+1988	Microsoft Windows/286 or Windows 286 was introduced in June 1988, and initially sold for $100.00.
+
+1990	Microsoft Windows 3.0 was released on May, 22 1990. Microsoft Windows 3.0 full version was priced at $149.95 and the upgrade version was priced at $79.95.
+
+1991	Following its decision not to develop operating systems cooperatively with IBM, Microsoft changed the name of their version of OS/2, originally named NT OS/2 3.0, to Windows NT. Developed by David Cutler, Windows NT was built on a different architecture than IBM's OS/2 operating system.
+
+1991	Microsoft Windows 3.0 or Windows 3.0a with multimedia was released in October 1991.
+
+1992	Microsoft Windows 3.1 was released in April 1992 and sells more than one million copies in the first two months of its release.
+
+1992	Microsoft Windows for Workgroups 3.1 was released in October 1992.
+
+1993	Microsoft Windows NT 3.1 was released on July 27, 1993.
+
+1993	Microsoft Windows 3.11, an update to Windows 3.1 was released on December 31, 1993.
+
+1993	The number of licensed users of Microsoft Windows totaled more than 25 million in 1993.
+
+1994	Microsoft Windows for Workgroups 3.11 was released in February 1994.
+
+1994	Microsoft Windows NT 3.5 was released on September 21, 1994.
+
+1995	Microsoft Windows NT 3.51 was released on May 30, 1995.
+
+1995	Microsoft Windows 95 was released on August 24, 1995, and sold more than one million copies within four days.
+
+1995	Microsoft Windows 95 Service Pack 1 (4.00.950A) was released on February 14, 1996.
+
+1996	Microsoft Windows NT 4.0 was released on July 29, 1996.
+
+1996	Microsoft Windows 95 (4.00.950B) aka OSR2 with FAT32 and MMX support was released on August 24, 1996.
+
+1996	Microsoft Windows CE 1.0 was released in November 1996.
+
+1997	Microsoft Windows CE 2.0 was released in November 1997.
+
+1997	Microsoft Windows 95 (4.00.950C) aka OSR2.5 was released on November 26, 1997.
+
+1998	Microsoft Windows 98 was released in June 1998.
+
+1998	Microsoft Windows CE 2.1 was released in July 1998.
+
+1998	In October 1998, Microsoft announced that future releases of Windows NT would no longer have the initials of NT and that the next edition would be Windows 2000.
+
+1999	Microsoft Windows 98 SE (Second Edition) was released on May 5, 1999.
+
+1999	Microsoft Windows CE 3.0 was released in 1999.
+
+2000	On January 4th, 2000, at CES, Bill Gates announced the new version of Windows CE will be called Pocket PC.
+
+2000	Microsoft Windows 2000 was released on February 17, 2000.
+
+2000	Microsoft Windows ME (Millennium) was released on June 19, 2000.
+
+2001	Microsoft Windows XP was released on October 25, 2001.
+
+2001	Microsoft Windows XP 64-bit edition (version 2002) for Itanium systems was released on March 28, 2003.
+
+2003	Microsoft Windows Server 2003 was released on March 28, 2003.
+
+2003	Microsoft Windows XP 64-bit edition (version 2003) for Itanium 2 systems was released on March 28, 2003.
+
+2003	Microsoft Windows XP Media Center edition 2003 was released on December 18, 2003.
+
+2004	Microsoft Windows XP Media Center edition 2005 was released on October 12, 2004.
+
+2005	Microsoft Windows XP Professional x64 edition was released on April 24, 2005.
+
+2005	Microsoft announced its next operating system, code-named "Longhorn," would be named Windows Vista on July 23, 2005.
+
+2006	Microsoft released Microsoft Windows Vista to corporations on November 30, 2006.
+
+2007	Microsoft released Microsoft Windows Vista and Office 2007 to the general public on January 30, 2007.
+
+2008	Microsoft released Microsoft Windows Server 2008 to the public on February 27, 2008.
+
+2009	Microsoft released Windows 7 on October 22, 2009.
+
+2012	Microsoft released Windows Server 2012 on September 4, 2012.
+
+2012	Microsoft released Windows 8 on October 26, 2012.
+
+2013	Microsoft released Windows 8.1 on October 17, 2013.
+
+2015	Microsoft released Windows 10 on July 29, 2015.
+
+2021	Microsoft announced released Windows 11 on October 5, 2021.
