@@ -88,17 +88,6 @@ Microsoft also introduced user profile support in Windows 95 to allow multiple f
  
 ![image](https://user-images.githubusercontent.com/94158648/194760141-1848f1ee-3fd4-421d-a6f6-a74f79c3a98a.png)
 
-# References:
-### Evolution of Microsoft Windows
-* [ARCHIVED: What is the history of Microsoft Windows?](https://kb.iu.edu/d/abwa#95)
-
-* [What is Microsoft Windows?](https://www.techtarget.com/searchwindowsserver/definition/Windows) 
-
-* [A History of Microsoft Windows – Timeline](https://www.thewindowsclub.com/history-of-windows)
-
-* [Microsoft Windows Timeline](https://www.officetimeline.com/blog/microsoft-windows-timeline)
-
-* [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 # A timeline of bootscreens from Windows 11 to Windows 1.0
 
@@ -264,3 +253,17 @@ Microsoft also introduced user profile support in Windows 95 to allow multiple f
 2015	Microsoft released Windows 10 on July 29, 2015.
 
 2021	Microsoft announced released Windows 11 on October 5, 2021.
+
+# References:
+### Evolution of Microsoft Windows
+* [ARCHIVED: What is the history of Microsoft Windows?](https://kb.iu.edu/d/abwa#95)
+
+* [What is Microsoft Windows?](https://www.techtarget.com/searchwindowsserver/definition/Windows) 
+
+* [A History of Microsoft Windows – Timeline](https://www.thewindowsclub.com/history-of-windows)
+
+* [Microsoft Windows Timeline](https://www.officetimeline.com/blog/microsoft-windows-timeline)
+
+* [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+* [Microsoft Windows History](https://www.computerhope.com/history/windows.htm) 
