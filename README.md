@@ -10,6 +10,96 @@ https://www.thewindowsclub.com/history-of-windows
 
 ![image](https://user-images.githubusercontent.com/94158648/194887100-db929205-2936-4e8d-8328-fd912b30b091.png)
 
+# Microsoft Windows 95 - Windows 97 
+
+![image](https://user-images.githubusercontent.com/94158648/194741863-dd25c17c-2d1a-4331-bc7f-e0ef31a113cc.png)
+
+***
+
+<!-- ![image](https://user-images.githubusercontent.com/94158648/194742126-d58adeab-531f-4eda-8d28-2f42683de708.png) -->
+
+* Microsoft’s Windows 95 was released on August 24th, 1995
+https://youtu.be/lAkuJXGldrM
+
+* Jay Leno helped launch the software alongside Microsoft co-founder Bill Gates, with a lot of jokes and the appearance of the entire Windows 95 development team on stage.
+https://youtu.be/_JzfROUDsK0
+ 
+> It was a huge day for Microsoft with TV commercials blasting the Rolling Stones’ “Start Me Up” with images of the new Start button that we still use today. 
+> * Microsoft even hired Jennifer Aniston and Matthew Perry to create an hour-long cyber sitcom all about Windows 95. The software was so popular that 7 million copies were sold during the first five weeks.
+
+Start me up: Watch CNET's early coverage of Windows 95, back in 1995
+https://youtu.be/Wu_gE8gQLIc
+
+Windows 95 launch! (Watch CNET's original story)
+https://youtu.be/13bs7oz4wp8
+
+***
+
+***
+
+<img src="https://user-images.githubusercontent.com/94158648/194742126-d58adeab-531f-4eda-8d28-2f42683de708.png" width=300 align=right>
+
+![image](https://user-images.githubusercontent.com/94158648/194741815-d11a8292-32c2-4d82-8a4f-34356fcc6f61.png)
+***
+
+
+***
+
+
+# Windows 95
+* Windows 95 was aimed at the desktop market, it was very different from Windows 3.1 and no longer required a separate DOS. 
+Designed to coexist with Windows NT, it offered a greater degree of backward compatibility with older drivers and software, at the expense of the greater stability and security of Windows NT. These were the new features:
+
+> * A new, more object-oriented GUI
+> * The new WIN32 API
+> * Preemptive multitasking of Win32 applications
+> * 32-bit flat memory model
+> * Protected memory
+> * Built-in networking support, including dial-up support
+> * New 32-bit driver model
+
+***
+
+<img src="https://user-images.githubusercontent.com/94158648/194742045-9eb30b2d-eace-485b-82bb-cb45f01314ea.png" width=400 align=right />
+
+Windows 95 facilitated hardware installation with its plug-and-play feature. 
+Microsoft also unveiled 32-bit color depth, enhanced multimedia capabilities, and [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) network support.
+
+Microsoft also introduced its first idea of syncing data between multiple machines in Windows 95. 
+> The My Briefcase aimed to sync files between a laptop and desktop machine, and in modern releases of Windows, it’s all cloud-powered all resulting from Microsoft’s OneDrive storage service. 
+Microsoft also introduced user profile support in Windows 95 to allow multiple family members to sign in and have their own separate profiles with links and applications. 
+* If you weren’t happy with all the new features of Windows 95 then you had the opportunity to purchase Microsoft Plus! for Windows 95. 
+* It included the Internet Jumpstart Kit (an early version of Internet Explorer), theme support, and a number of system utilities. Subsequent updates to Windows 95 also introduced new features before Windows 98 arrived three years later to improve things even more.
+
+![image](https://user-images.githubusercontent.com/94158648/194761731-8cfbed85-bb0b-4a95-ac6f-b2558398ed4b.png)
+***
+
+
+![image](https://user-images.githubusercontent.com/94158648/194741843-dc2aa4e3-b455-4e4b-b060-26ad3411827f.png)
+
+# First there was Microsoft Bob
+![image](https://user-images.githubusercontent.com/94158648/195745307-83279473-50fe-42d3-ada2-0b6d46f15327.png)
+
+# Then there was Clippy, there for the Rescue - You either loved him or hated 'em 
+
+***
+![image](https://user-images.githubusercontent.com/94158648/194751195-4ba972ed-35b3-4eb8-bb64-897409484d70.png)
+> Clippy was first introduced in 1996 as part of the Microsoft Office 97 Release, but by 2001 was turned off by default in the program, meaning users had to enable Clippy for use. Clippy was formally removed from Office in 2007, and briefly resurfaced as part of an animated sticker pack via Github in 2019.
+ 
+![image](https://user-images.githubusercontent.com/94158648/194760141-1848f1ee-3fd4-421d-a6f6-a74f79c3a98a.png)
+
+# References:
+### Evolution of Microsoft Windows
+* [ARCHIVED: What is the history of Microsoft Windows?](https://kb.iu.edu/d/abwa#95)
+
+* [What is Microsoft Windows?](https://www.techtarget.com/searchwindowsserver/definition/Windows) 
+
+* [A History of Microsoft Windows – Timeline](https://www.thewindowsclub.com/history-of-windows)
+
+* [Microsoft Windows Timeline](https://www.officetimeline.com/blog/microsoft-windows-timeline)
+
+* [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
 # A timeline of bootscreens from Windows 11 to Windows 1.0
 
 ![image](https://user-images.githubusercontent.com/94158648/194889096-04e5e3ec-5e65-4377-8f3a-e1eb6863ab67.png)
