@@ -166,8 +166,8 @@ Microsoft also introduced user profile support in Windows 95 to allow multiple f
 ![image](https://user-images.githubusercontent.com/94158648/194891172-3ff9c0da-0c3d-4dad-9bb8-f49188f2a274.png)
 
 
-# MS-DOS history.
-Year	Event
+# MS-DOS History
+# Year	Event
 
 1983	Bill Gates announced Microsoft Windows on November 10, 1983.
 
